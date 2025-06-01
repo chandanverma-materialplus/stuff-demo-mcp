@@ -1,0 +1,8 @@
+# author: materialplus.io
+# date: 6/1/2025
+
+transformers==4.28.1
+datasets==2.5.2
+mlflow==1.29.0
+jiwer==2.3.0
+sacrebleu==2.3.1
